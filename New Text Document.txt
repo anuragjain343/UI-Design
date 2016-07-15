@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> my jquesry website</title>
+
+<script type="text/javascript" src="jquery-3.0.0.min.js"/><script type="text/javascript">
+$(document).ready(function(){$('h1').click(function(){alert("125488");});});
+</script>
+</head>
+<body>
+<h1>heloo</h1>
+</body>
+</html>
